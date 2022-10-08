@@ -30,7 +30,6 @@ namespace Ticart.Controllers
             return View();
         }
 
-
         [HttpPost]
         public ActionResult YeniUrun(Urun p)
         {
